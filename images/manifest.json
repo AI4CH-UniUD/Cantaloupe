@@ -1,15 +1,15 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/manifest.json",
+    "id": "https://AI4CH-UniUD.github.io/Cantaloupe/images/manifest.json",
     "type": "Manifest",
     "label": {
         "en": [
-            "All images loaded in LorenzoFurlan2000/Cantaloupe project"
+            "All images loaded in AI4CH-UniUD/Cantaloupe project"
         ]
     },
     "items": [
         {
-            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/canvas/",
+            "id": "https://AI4CH-UniUD.github.io/Cantaloupe/images/PD-Ms6828-69_p154/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
@@ -20,11 +20,11 @@
             "width": 2417,
             "items": [
                 {
-                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/annotation/AnnoPage",
+                    "id": "https://AI4CH-UniUD.github.io/Cantaloupe/images/PD-Ms6828-69_p154/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/annotation/",
+                            "id": "https://AI4CH-UniUD.github.io/Cantaloupe/images/PD-Ms6828-69_p154/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -83,14 +83,14 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/canvas/"
+                            "target": "https://AI4CH-UniUD.github.io/Cantaloupe/images/PD-Ms6828-69_p154/canvas/"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/B881606401_MS58_59v/canvas/",
+            "id": "https://AI4CH-UniUD.github.io/Cantaloupe/images/B881606401_MS58_59v/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
@@ -101,11 +101,11 @@
             "width": 433,
             "items": [
                 {
-                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/B881606401_MS58_59v/annotation/AnnoPage",
+                    "id": "https://AI4CH-UniUD.github.io/Cantaloupe/images/B881606401_MS58_59v/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/B881606401_MS58_59v/annotation/",
+                            "id": "https://AI4CH-UniUD.github.io/Cantaloupe/images/B881606401_MS58_59v/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -164,14 +164,14 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/B881606401_MS58_59v/canvas/"
+                            "target": "https://AI4CH-UniUD.github.io/Cantaloupe/images/B881606401_MS58_59v/canvas/"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156/canvas/",
+            "id": "https://AI4CH-UniUD.github.io/Cantaloupe/images/PD-Ms6828-69_p156/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
@@ -182,11 +182,11 @@
             "width": 2417,
             "items": [
                 {
-                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156/annotation/AnnoPage",
+                    "id": "https://AI4CH-UniUD.github.io/Cantaloupe/images/PD-Ms6828-69_p156/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156/annotation/",
+                            "id": "https://AI4CH-UniUD.github.io/Cantaloupe/images/PD-Ms6828-69_p156/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -245,14 +245,14 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156/canvas/"
+                            "target": "https://AI4CH-UniUD.github.io/Cantaloupe/images/PD-Ms6828-69_p156/canvas/"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/canvas/",
+            "id": "https://AI4CH-UniUD.github.io/Cantaloupe/images/santo1530big/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
@@ -263,11 +263,11 @@
             "width": 400,
             "items": [
                 {
-                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/annotation/AnnoPage",
+                    "id": "https://AI4CH-UniUD.github.io/Cantaloupe/images/santo1530big/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/annotation/",
+                            "id": "https://AI4CH-UniUD.github.io/Cantaloupe/images/santo1530big/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -326,14 +326,14 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/canvas/"
+                            "target": "https://AI4CH-UniUD.github.io/Cantaloupe/images/santo1530big/canvas/"
                         }
                     ]
                 }
             ]
         },
         {
-            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155/canvas/",
+            "id": "https://AI4CH-UniUD.github.io/Cantaloupe/images/PD-Ms6828-69_p155/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
@@ -344,11 +344,11 @@
             "width": 2417,
             "items": [
                 {
-                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155/annotation/AnnoPage",
+                    "id": "https://AI4CH-UniUD.github.io/Cantaloupe/images/PD-Ms6828-69_p155/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155/annotation/",
+                            "id": "https://AI4CH-UniUD.github.io/Cantaloupe/images/PD-Ms6828-69_p155/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -407,7 +407,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155/canvas/"
+                            "target": "https://AI4CH-UniUD.github.io/Cantaloupe/images/PD-Ms6828-69_p155/canvas/"
                         }
                     ]
                 }
