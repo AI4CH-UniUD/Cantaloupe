@@ -1,0 +1,417 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in LorenzoFurlan2000/Cantaloupe project"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PD-Ms6828-69_p154"
+                ]
+            },
+            "height": 3952,
+            "width": 2417,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 76,
+                                                "height": 124
+                                            },
+                                            {
+                                                "width": 152,
+                                                "height": 247
+                                            },
+                                            {
+                                                "width": 303,
+                                                "height": 494
+                                            },
+                                            {
+                                                "width": 605,
+                                                "height": 988
+                                            },
+                                            {
+                                                "width": 1209,
+                                                "height": 1976
+                                            },
+                                            {
+                                                "width": 2417,
+                                                "height": 3952
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2417,
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3952,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p154/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/B881606401_MS58_59v/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "B881606401_MS58_59v"
+                ]
+            },
+            "height": 640,
+            "width": 433,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/B881606401_MS58_59v/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/B881606401_MS58_59v/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/B881606401_MS58_59v/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 14,
+                                                "height": 20
+                                            },
+                                            {
+                                                "width": 28,
+                                                "height": 40
+                                            },
+                                            {
+                                                "width": 55,
+                                                "height": 80
+                                            },
+                                            {
+                                                "width": 109,
+                                                "height": 160
+                                            },
+                                            {
+                                                "width": 217,
+                                                "height": 320
+                                            },
+                                            {
+                                                "width": 433,
+                                                "height": 640
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 433,
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/B881606401_MS58_59v",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 640,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/B881606401_MS58_59v/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PD-Ms6828-69_p156"
+                ]
+            },
+            "height": 3952,
+            "width": 2417,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 76,
+                                                "height": 124
+                                            },
+                                            {
+                                                "width": 152,
+                                                "height": 247
+                                            },
+                                            {
+                                                "width": 303,
+                                                "height": 494
+                                            },
+                                            {
+                                                "width": 605,
+                                                "height": 988
+                                            },
+                                            {
+                                                "width": 1209,
+                                                "height": 1976
+                                            },
+                                            {
+                                                "width": 2417,
+                                                "height": 3952
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2417,
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3952,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "santo1530big"
+                ]
+            },
+            "height": 595,
+            "width": 400,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 13,
+                                                "height": 19
+                                            },
+                                            {
+                                                "width": 25,
+                                                "height": 38
+                                            },
+                                            {
+                                                "width": 50,
+                                                "height": 75
+                                            },
+                                            {
+                                                "width": 100,
+                                                "height": 149
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 298
+                                            },
+                                            {
+                                                "width": 400,
+                                                "height": 595
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 400,
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 595,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/santo1530big/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "PD-Ms6828-69_p155"
+                ]
+            },
+            "height": 3952,
+            "width": 2417,
+            "items": [
+                {
+                    "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 76,
+                                                "height": 124
+                                            },
+                                            {
+                                                "width": 152,
+                                                "height": 247
+                                            },
+                                            {
+                                                "width": 303,
+                                                "height": 494
+                                            },
+                                            {
+                                                "width": 605,
+                                                "height": 988
+                                            },
+                                            {
+                                                "width": 1209,
+                                                "height": 1976
+                                            },
+                                            {
+                                                "width": 2417,
+                                                "height": 3952
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2417,
+                                        "@id": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3952,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p155/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
