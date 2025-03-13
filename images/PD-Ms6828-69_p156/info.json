@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 2417,
-  "@id" : "https://LorenzoFurlan2000.github.io/Cantaloupe/images/PD-Ms6828-69_p156",
+  "@id" : "https://ai4ch-uniud.github.io/Cantaloupe/images/PD-Ms6828-69_p156",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 3952
 }
