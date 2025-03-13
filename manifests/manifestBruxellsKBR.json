@@ -1,0 +1,117 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://389a7bdf-b0b0-42df-ba23-6cb07902013a",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://5975c48e-0bfd-476e-aefe-571511550a4d",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://9d676d79-dc97-4b76-9fe8-d8469d6ae353",
+					"@type": "sc:Canvas",
+					"label": "PD-Ms6828-69_p154",
+					"height": 3952,
+					"width": 2417,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://923d4c7b-0087-4a19-989c-38ab0f821b16",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/PD-Ms6828-69_p154/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/PD-Ms6828-69_p154",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 3952,
+								"width": 2417
+							},
+							"on": "http://9d676d79-dc97-4b76-9fe8-d8469d6ae353"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://0969328c-c62c-44aa-aca5-c7030fa7f288",
+					"@type": "sc:Canvas",
+					"label": "PD-Ms6828-69_p155",
+					"height": 3952,
+					"width": 2417,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://11aa3e90-9651-4c64-81ea-9d9dc3bb2446",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/PD-Ms6828-69_p155/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/PD-Ms6828-69_p155",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 3952,
+								"width": 2417
+							},
+							"on": "http://0969328c-c62c-44aa-aca5-c7030fa7f288"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://f71d2cf1-d3c7-4ddc-b737-d009ca1abef6",
+					"@type": "sc:Canvas",
+					"label": "PD-Ms6828-69_p156",
+					"height": 3952,
+					"width": 2417,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e470a4e8-bba1-49ec-befd-733bec0d4456",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/PD-Ms6828-69_p156/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/PD-Ms6828-69_p156",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 3952,
+								"width": 2417
+							},
+							"on": "http://f71d2cf1-d3c7-4ddc-b737-d009ca1abef6"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
