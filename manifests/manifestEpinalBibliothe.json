@@ -1,0 +1,117 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://872674da-d21d-4bcd-9304-425373c58286",
+	"@type": "sc:Manifest",
+	"label": "Epinal, Bibliothe╠Çque Multime╠üdia Intercommunale Epinal-Goldbey (olim Bibliothe╠Çque Municipale) 58 (35, IV)",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://7585b078-d560-4341-b108-61c0882d5fd4",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://06dac4ee-adbd-44a1-957d-a9644438b368",
+					"@type": "sc:Canvas",
+					"label": "B881606401MS5858v",
+					"height": 640,
+					"width": 433,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://be4167f0-9d54-4f8e-87d8-b69bf528125b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/EpinalBibliothe/B881606401MS5858v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/EpinalBibliothe/B881606401MS5858v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 640,
+								"width": 433
+							},
+							"on": "http://06dac4ee-adbd-44a1-957d-a9644438b368"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://6056988d-1b01-4b13-a8fc-63c313f65b94",
+					"@type": "sc:Canvas",
+					"label": "B881606401MS5859r",
+					"height": 640,
+					"width": 432,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://52e3e147-f254-404b-81ec-56d0d102a6d1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/EpinalBibliothe/B881606401MS5859r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/EpinalBibliothe/B881606401MS5859r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 640,
+								"width": 432
+							},
+							"on": "http://6056988d-1b01-4b13-a8fc-63c313f65b94"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://1f76859d-7b55-4f50-a127-2cd74034a09a",
+					"@type": "sc:Canvas",
+					"label": "B881606401MS5859v",
+					"height": 640,
+					"width": 433,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8a626d5b-809e-4d95-8adb-4e3b8fe4f59e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/EpinalBibliothe/B881606401MS5859v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/EpinalBibliothe/B881606401MS5859v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 640,
+								"width": 433
+							},
+							"on": "http://1f76859d-7b55-4f50-a127-2cd74034a09a"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
