@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 433,
-  "@id" : "https://LorenzoFurlan2000.github.io/Cantaloupe/images/B881606401_MS58_59v",
+  "@id" : "https://LorenzoFurlan2000.github.io/Cantaloupe/images/B881606401MS5858v",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 640
 }
