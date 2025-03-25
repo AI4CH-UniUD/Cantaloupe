@@ -1,0 +1,175 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://6502f38b-b13d-428c-b218-951eba2b3e60",
+	"@type": "sc:Manifest",
+	"label": "NamurMuseueArcheologiquedelaprovincedeNamurFondsdelaville15",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://58b4f4d9-8ae2-4803-bf07-b65174b06d4b",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://a79c76a0-59ec-47f2-86d3-211c17ffa80e",
+					"@type": "sc:Canvas",
+					"label": "n15fol201r",
+					"height": 2000,
+					"width": 1312,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://7d08c7f1-8771-4c96-a3a8-94586c55740a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/NamurMuseueArcheologiquedelaprovincedeNamurFondsdelaville15/n15ol201v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/NamurMuseueArcheologiquedelaprovincedeNamurFondsdelaville15/n15ol201v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 2000,
+								"width": 1312
+							},
+							"on": "http://a79c76a0-59ec-47f2-86d3-211c17ffa80e"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://16520db6-4cec-49f2-90ec-928981e3eac1",
+					"@type": "sc:Canvas",
+					"label": "n15fol202r",
+					"height": 2000,
+					"width": 1312,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://41f69ddd-3bb6-417d-b7e9-336ac7e76b28",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/NamurMuseueArcheologiquedelaprovincedeNamurFondsdelaville15/n15fol202r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/NamurMuseueArcheologiquedelaprovincedeNamurFondsdelaville15/n15fol202r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 2000,
+								"width": 1312
+							},
+							"on": "http://16520db6-4cec-49f2-90ec-928981e3eac1"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://336e92b0-a76e-45f1-9793-d7c2376b80a1",
+					"@type": "sc:Canvas",
+					"label": "n15fol202v",
+					"height": 2000,
+					"width": 1312,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3b8faaf1-6508-4f99-a949-7f20fc782323",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/NamurMuseueArcheologiquedelaprovincedeNamurFondsdelaville15/n15fol202v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/NamurMuseueArcheologiquedelaprovincedeNamurFondsdelaville15/n15fol202v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 2000,
+								"width": 1312
+							},
+							"on": "http://336e92b0-a76e-45f1-9793-d7c2376b80a1"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://8e9ae2d8-dd33-4925-bf9d-f3c54cbbeeda",
+					"@type": "sc:Canvas",
+					"label": "n15fol203r",
+					"height": 2000,
+					"width": 1312,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b78b439a-c97f-4434-961b-7b4eef0560b2",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/NamurMuseueArcheologiquedelaprovincedeNamurFondsdelaville15/n15fol203r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/NamurMuseueArcheologiquedelaprovincedeNamurFondsdelaville15/n15fol203r",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 2000,
+								"width": 1312
+							},
+							"on": "http://8e9ae2d8-dd33-4925-bf9d-f3c54cbbeeda"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://408458ae-4ad3-42d5-86ad-279001605c68",
+					"@type": "sc:Canvas",
+					"label": "n15fol203v",
+					"height": 2000,
+					"width": 1312,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8f789824-7359-4de5-a31b-3394160e966b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/NamurMuseueArcheologiquedelaprovincedeNamurFondsdelaville15/n15fol203v/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/NamurMuseueArcheologiquedelaprovincedeNamurFondsdelaville15/n15fol203v",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 2000,
+								"width": 1312
+							},
+							"on": "http://408458ae-4ad3-42d5-86ad-279001605c68"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
