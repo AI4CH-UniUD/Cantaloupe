@@ -142,7 +142,7 @@
 				{
 					"@id": "http://376446e2-3bbc-4368-97cb-7e6670b12004",
 					"@type": "sc:Canvas",
-					"label": "Image0005",
+					"label": "Image00005",
 					"height": 8941,
 					"width": 5868,
 					"images": [
@@ -287,7 +287,7 @@
 				{
 					"@id": "http://37e35d8b-d77a-429e-82c5-e2045deb0a6c",
 					"@type": "sc:Canvas",
-					"label": "Image0010",
+					"label": "Image00010",
 					"height": 9048,
 					"width": 5762,
 					"images": [
