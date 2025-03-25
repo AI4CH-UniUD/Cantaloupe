@@ -575,30 +575,30 @@
 					"related": ""
 				},
 				{
-					"@id": "http://02936b8d-bd25-4484-beea-26163641a954",
+					"@id": "http://bb760733-3937-4bdd-ac2c-0d6ba68ca40b",
 					"@type": "sc:Canvas",
-					"label": "Image00020",
+					"label": "Image00030",
 					"height": 9048,
-					"width": "0",
+					"width": 5762,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://d4334b3d-9499-4a5c-a562-c6976987ec3b",
+							"@id": "http://ec6fef7d-c3c6-4bb9-b33a-2e8a221813e6",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/TrierBibliothekdesPriesterseminars36/Image00020/full/full/0/default.jpg",
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/TrierBibliothekdesPriesterseminars36/Image00030/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/TrierBibliothekdesPriesterseminars36/Image00020",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/TrierBibliothekdesPriesterseminars36/Image00030",
 									"profile": "http://iiif.io/api/image/2/level0.json"
 								},
 								"height": 9048,
 								"width": 5762
 							},
-							"on": "http://02936b8d-bd25-4484-beea-26163641a954"
+							"on": "http://bb760733-3937-4bdd-ac2c-0d6ba68ca40b"
 						}
 					],
 					"related": ""
@@ -865,12 +865,32 @@
 					"related": ""
 				},
 				{
-					"@id": "http://dd597707-b694-4df8-b0b9-f6860b045365",
+					"@id": "http://bb760733-3937-4bdd-ac2c-0d6ba68ca40b",
 					"@type": "sc:Canvas",
 					"label": "Image00030",
-					"height": 0,
-					"width": 0,
-					"images": [],
+					"height": 9048,
+					"width": 5762,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ec6fef7d-c3c6-4bb9-b33a-2e8a221813e6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/TrierBibliothekdesPriesterseminars36/Image00030/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/TrierBibliothekdesPriesterseminars36/Image00030",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 9048,
+								"width": 5762
+							},
+							"on": "http://bb760733-3937-4bdd-ac2c-0d6ba68ca40b"
+						}
+					],
 					"related": ""
 				}
 			]
