@@ -1,0 +1,378 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://bba64fa5-b20b-4138-848d-7863479cee04",
+	"@type": "sc:Manifest",
+	"label": "2-21aprile1857",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://63094e94-9877-4788-8550-6726a2c77230",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://9c129943-3f22-4b15-b1d8-b52b2ce7a98f",
+					"@type": "sc:Canvas",
+					"label": "Pungolo18570421p65",
+					"height": 5550,
+					"width": 4044,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d8cbd310-627e-4109-a706-7cc1419d3289",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p65/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p65",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5550,
+								"width": 4044
+							},
+							"on": "http://9c129943-3f22-4b15-b1d8-b52b2ce7a98f"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://a46954a1-b709-451b-9f1d-c2093f36be19",
+					"@type": "sc:Canvas",
+					"label": "Pungolo18570421p66",
+					"height": 5580,
+					"width": 4390,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d87da58e-c564-4951-b09a-9a78a579f116",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p66/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p66",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5580,
+								"width": 4390
+							},
+							"on": "http://a46954a1-b709-451b-9f1d-c2093f36be19"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://f41f4e21-0135-4e41-946f-fdd4b0a56b1f",
+					"@type": "sc:Canvas",
+					"label": "Pungolo18570421p67",
+					"height": 5580,
+					"width": 4235,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://24e764e9-b1f6-4b8c-b3f8-206d44a78db0",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p67/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p67",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5580,
+								"width": 4235
+							},
+							"on": "http://f41f4e21-0135-4e41-946f-fdd4b0a56b1f"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://7fabc89a-74bc-40dd-9ccc-5c93c5e43d70",
+					"@type": "sc:Canvas",
+					"label": "Pungolo18570421p68",
+					"height": 5590,
+					"width": 4387,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://7bf0c5a6-1f44-493a-9a2c-a364525cc6fc",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p68/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p68",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5590,
+								"width": 4387
+							},
+							"on": "http://7fabc89a-74bc-40dd-9ccc-5c93c5e43d70"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://30a124bc-4cb8-4b1a-a63c-5694e59431f3",
+					"@type": "sc:Canvas",
+					"label": "Pungolo18570421p69",
+					"height": 5590,
+					"width": 4175,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8d5716cf-3ae1-49bb-890c-da8b4f3e552c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p69/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p69",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5590,
+								"width": 4175
+							},
+							"on": "http://30a124bc-4cb8-4b1a-a63c-5694e59431f3"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://83de5261-9126-4c39-896b-d566e022d1a5",
+					"@type": "sc:Canvas",
+					"label": "Pungolo18570421p70",
+					"height": 5576,
+					"width": 4364,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c6bf0d3a-9e00-46d4-a4d2-4b4d9c4e70d3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p70/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p70",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5576,
+								"width": 4364
+							},
+							"on": "http://83de5261-9126-4c39-896b-d566e022d1a5"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://6bf69689-3333-4dd5-ae60-d024f191312f",
+					"@type": "sc:Canvas",
+					"label": "Pungolo18570421p71",
+					"height": 5576,
+					"width": 4225,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8b07ef8a-bd40-447e-9aad-14271f2d0cb1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p71/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p71",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5576,
+								"width": 4225
+							},
+							"on": "http://6bf69689-3333-4dd5-ae60-d024f191312f"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://97e3fc7e-5655-43fc-b5b6-7e3f8fa4904b",
+					"@type": "sc:Canvas",
+					"label": "Pungolo18570421p72",
+					"height": 5602,
+					"width": 4315,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://bc8bf305-8e69-432a-aa70-e92f7e3f28ad",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p72/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p72",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5602,
+								"width": 4315
+							},
+							"on": "http://97e3fc7e-5655-43fc-b5b6-7e3f8fa4904b"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://cd6a3cf3-be2c-4313-ad8e-7a02b2afdf8b",
+					"@type": "sc:Canvas",
+					"label": "Pungolo18570421p73",
+					"height": 5602,
+					"width": 4181,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://89e38a40-687e-48af-bb42-bffc679a1d6c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p73/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p73",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5602,
+								"width": 4181
+							},
+							"on": "http://cd6a3cf3-be2c-4313-ad8e-7a02b2afdf8b"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://e40d5e5d-7e53-4995-8f7d-f4627a77e816",
+					"@type": "sc:Canvas",
+					"label": "Pungolo18570421p74",
+					"height": 5604,
+					"width": 4400,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://80d900db-0e26-4115-8ffa-0e917f015df0",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p74/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p74",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5604,
+								"width": 4400
+							},
+							"on": "http://e40d5e5d-7e53-4995-8f7d-f4627a77e816"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://c6f1216f-a2fa-406c-92ca-d762413713d9",
+					"@type": "sc:Canvas",
+					"label": "Pungolo18570421p75",
+					"height": 5604,
+					"width": 4227,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://df148dee-49d3-44e8-ba6b-8e48cb86808f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p75/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p75",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5604,
+								"width": 4227
+							},
+							"on": "http://c6f1216f-a2fa-406c-92ca-d762413713d9"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://33c45e2d-5781-45a4-91f9-e4c212037525",
+					"@type": "sc:Canvas",
+					"label": "Pungolo18570421p76",
+					"height": 5580,
+					"width": 4373,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b6506927-29cb-4faf-ae05-adae5ebe70b1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p76/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ImmaginiBianca/1857LeDisgrazieDelNumeroDuePungolo/221aprile1857/Pungolo18570421p76",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 5580,
+								"width": 4373
+							},
+							"on": "http://33c45e2d-5781-45a4-91f9-e4c212037525"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
