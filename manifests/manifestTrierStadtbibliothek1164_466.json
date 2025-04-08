@@ -109,15 +109,6 @@
 						}
 					],
 					"related": ""
-				},
-				{
-					"@id": "http://c1558b1a-6cde-4b15-9cf0-bc9ce0f466e7",
-					"@type": "sc:Canvas",
-					"label": "Empty canvas",
-					"height": 0,
-					"width": 0,
-					"images": [],
-					"related": ""
 				}
 			]
 		}
