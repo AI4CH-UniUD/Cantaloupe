@@ -1,0 +1,146 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://60e48a09-1bd8-4ddf-9c1f-d200976be084",
+	"@type": "sc:Manifest",
+	"label": "TrierStadtbibliothek1178_480",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://f037c4cd-1164-48d5-b04a-6f8769de4694",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://83667e9c-f696-4f67-9339-a499eee7c9c7",
+					"@type": "sc:Canvas",
+					"label": "WiBi_Tr_Hs_1178_0480_4_DS_f_102r",
+					"height": 3756,
+					"width": 4908,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b7eb999a-c480-439b-8bd8-8037f06e919d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/TrierStadtbibliothek1178_480/WiBi_Tr_Hs_1178_0480_4_DS_f_102r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/TrierStadtbibliothek1178_480/WiBi_Tr_Hs_1178_0480_4_DS_f_102r",
+									"profile": "level0"
+								},
+								"height": 3756,
+								"width": 4908
+							},
+							"on": "http://83667e9c-f696-4f67-9339-a499eee7c9c7"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://f64e6970-f1a2-45cf-9cfc-ff1b25a8d437",
+					"@type": "sc:Canvas",
+					"label": "WiBi_Tr_Hs_1178_0480_4_DS_f_103r",
+					"height": 3756,
+					"width": 4908,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://cb3285a0-5fd8-4e06-afd2-7b5586464466",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/TrierStadtbibliothek1178_480/WiBi_Tr_Hs_1178_0480_4_DS_f_103r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/TrierStadtbibliothek1178_480/WiBi_Tr_Hs_1178_0480_4_DS_f_103r",
+									"profile": "level0"
+								},
+								"height": 3756,
+								"width": 4908
+							},
+							"on": "http://f64e6970-f1a2-45cf-9cfc-ff1b25a8d437"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://1490a96a-d8f0-4c87-bccf-6b8e81a1e821",
+					"@type": "sc:Canvas",
+					"label": "WiBi_Tr_Hs_1178_0480_4_DS_f_104r",
+					"height": "0",
+					"width": 4908,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d3024326-5659-464b-9dc1-c29d62d0a5f6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/TrierStadtbibliothek1178_480/WiBi_Tr_Hs_1178_0480_4_DS_f_104r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/TrierStadtbibliothek1178_480/WiBi_Tr_Hs_1178_0480_4_DS_f_104r",
+									"profile": "level0"
+								},
+								"height": 3756,
+								"width": 4908
+							},
+							"on": "http://1490a96a-d8f0-4c87-bccf-6b8e81a1e821"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://0ea540a5-2189-44cb-9eb4-5a26e4c01bab",
+					"@type": "sc:Canvas",
+					"label": "WiBi_Tr_Hs_1178_0480_4_DS_f_105r",
+					"height": "0",
+					"width": 4908,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d92ee6fb-df2d-4047-bbe3-69e9bedddd73",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/TrierStadtbibliothek1178_480/WiBi_Tr_Hs_1178_0480_4_DS_f_105r/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/TrierStadtbibliothek1178_480/WiBi_Tr_Hs_1178_0480_4_DS_f_105r",
+									"profile": "level0"
+								},
+								"height": 3756,
+								"width": 4908
+							},
+							"on": "http://0ea540a5-2189-44cb-9eb4-5a26e4c01bab"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
