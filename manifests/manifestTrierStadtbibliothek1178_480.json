@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://60e48a09-1bd8-4ddf-9c1f-d200976be084",
+	"@id": "http://3e079933-5b9c-48d7-b97c-21409a2be03c",
 	"@type": "sc:Manifest",
 	"label": "TrierStadtbibliothek1178_480",
 	"metadata": [],
@@ -14,7 +14,7 @@
 	"attribution": "[Click to edit attribution]",
 	"sequences": [
 		{
-			"@id": "http://f037c4cd-1164-48d5-b04a-6f8769de4694",
+			"@id": "http://33a8a9b8-960f-4423-9acd-1e68727cb40b",
 			"@type": "sc:Sequence",
 			"label": [
 				{
@@ -24,7 +24,7 @@
 			],
 			"canvases": [
 				{
-					"@id": "http://83667e9c-f696-4f67-9339-a499eee7c9c7",
+					"@id": "http://4eeff940-42b0-4bc6-a459-a3ae0bdc884a",
 					"@type": "sc:Canvas",
 					"label": "WiBi_Tr_Hs_1178_0480_4_DS_f_102r",
 					"height": 3756,
@@ -32,7 +32,7 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://b7eb999a-c480-439b-8bd8-8037f06e919d",
+							"@id": "http://758fccf0-e4e6-45c7-b3bb-ffcf8eb7a94a",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -47,13 +47,13 @@
 								"height": 3756,
 								"width": 4908
 							},
-							"on": "http://83667e9c-f696-4f67-9339-a499eee7c9c7"
+							"on": "http://4eeff940-42b0-4bc6-a459-a3ae0bdc884a"
 						}
 					],
 					"related": ""
 				},
 				{
-					"@id": "http://f64e6970-f1a2-45cf-9cfc-ff1b25a8d437",
+					"@id": "http://f92098ab-07ad-4ec0-abe0-dbe8924dd89a",
 					"@type": "sc:Canvas",
 					"label": "WiBi_Tr_Hs_1178_0480_4_DS_f_103r",
 					"height": 3756,
@@ -61,7 +61,7 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://cb3285a0-5fd8-4e06-afd2-7b5586464466",
+							"@id": "http://b4deb9b1-5b67-4946-81e0-a7e739ae11d9",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -76,21 +76,21 @@
 								"height": 3756,
 								"width": 4908
 							},
-							"on": "http://f64e6970-f1a2-45cf-9cfc-ff1b25a8d437"
+							"on": "http://f92098ab-07ad-4ec0-abe0-dbe8924dd89a"
 						}
 					],
 					"related": ""
 				},
 				{
-					"@id": "http://1490a96a-d8f0-4c87-bccf-6b8e81a1e821",
+					"@id": "http://f99c92f7-8ceb-45b7-9818-9fb408a3c7e2",
 					"@type": "sc:Canvas",
 					"label": "WiBi_Tr_Hs_1178_0480_4_DS_f_104r",
-					"height": "0",
+					"height": 3756,
 					"width": 4908,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://d3024326-5659-464b-9dc1-c29d62d0a5f6",
+							"@id": "http://27cebd12-822c-4254-b46f-cf2428f8b33e",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -105,21 +105,21 @@
 								"height": 3756,
 								"width": 4908
 							},
-							"on": "http://1490a96a-d8f0-4c87-bccf-6b8e81a1e821"
+							"on": "http://f99c92f7-8ceb-45b7-9818-9fb408a3c7e2"
 						}
 					],
 					"related": ""
 				},
 				{
-					"@id": "http://0ea540a5-2189-44cb-9eb4-5a26e4c01bab",
+					"@id": "http://4c40531e-0c37-4db9-a16e-fd5a7aa1fd17",
 					"@type": "sc:Canvas",
 					"label": "WiBi_Tr_Hs_1178_0480_4_DS_f_105r",
-					"height": "0",
+					"height": 3756,
 					"width": 4908,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://d92ee6fb-df2d-4047-bbe3-69e9bedddd73",
+							"@id": "http://37719bfd-1d7f-477f-9d58-78b77ceb7dcc",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -134,7 +134,7 @@
 								"height": 3756,
 								"width": 4908
 							},
-							"on": "http://0ea540a5-2189-44cb-9eb4-5a26e4c01bab"
+							"on": "http://4c40531e-0c37-4db9-a16e-fd5a7aa1fd17"
 						}
 					],
 					"related": ""
