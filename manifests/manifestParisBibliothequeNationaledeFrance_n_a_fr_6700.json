@@ -1,0 +1,146 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://4078af96-3613-48a8-9bc7-777dd4aa359b",
+	"@type": "sc:Manifest",
+	"label": "ParisBibliothequeNationaledeFrance_n_a_fr_6700",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://e65118b9-294d-4922-93c6-2b829ae8c489",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://b08b8771-f576-48e6-b37c-e5db54723be9",
+					"@type": "sc:Canvas",
+					"label": "ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0001",
+					"height": 1755,
+					"width": 1240,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8a327d43-0180-49ec-aecd-bdb27b10eaec",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrance_n_a_fr_6700/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0001/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrance_n_a_fr_6700/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0001",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 1755,
+								"width": 1240
+							},
+							"on": "http://b08b8771-f576-48e6-b37c-e5db54723be9"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://2a36e557-46af-4ab7-80ae-eb4d36b82ea9",
+					"@type": "sc:Canvas",
+					"label": "ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0002",
+					"height": 1755,
+					"width": 1240,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://01ffe3a3-1355-44a1-a9d5-a7872dcb3019",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrance_n_a_fr_6700/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0002/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrance_n_a_fr_6700/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0002",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 1755,
+								"width": 1240
+							},
+							"on": "http://2a36e557-46af-4ab7-80ae-eb4d36b82ea9"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b8dc5617-2911-4a79-ae01-66810859aa94",
+					"@type": "sc:Canvas",
+					"label": "ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0003",
+					"height": 1755,
+					"width": 1240,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://9983d9f9-5677-44e0-a1ff-6ca7b260f56d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrance_n_a_fr_6700/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0003/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrance_n_a_fr_6700/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0003",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 1755,
+								"width": 1240
+							},
+							"on": "http://b8dc5617-2911-4a79-ae01-66810859aa94"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://e4ec892e-6b94-45c4-b96e-afcae6ca2cfc",
+					"@type": "sc:Canvas",
+					"label": "ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0004",
+					"height": 1755,
+					"width": 1240,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://bff63338-f124-42e0-b495-f9505312f8c0",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrance_n_a_fr_6700/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0004/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ai4ch-uniud.github.io/Cantaloupe/images/ParisBibliothequeNationaledeFrance_n_a_fr_6700/ParisBibliothequeNationaledeFrancen_a_fr_6700_page_0004",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 1755,
+								"width": 1240
+							},
+							"on": "http://e4ec892e-6b94-45c4-b96e-afcae6ca2cfc"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
